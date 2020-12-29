@@ -7,6 +7,6 @@ Leveraging documentation and library publishing tools from `@microsoft`
 - `@microsoft/api-documenter`
 - `@microsoft/api-extractor`
 
-Docs folder hosted:
+Docs auto generated and published to:
 
 [https://nickfoden.github.io/ts-lib/](https://nickfoden.github.io/ts-lib/)
